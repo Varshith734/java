@@ -1,0 +1,4 @@
+class without_main
+{
+	
+}

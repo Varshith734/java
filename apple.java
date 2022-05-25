@@ -1,0 +1,4 @@
+class apple extends fruit
+{
+		
+}

@@ -1,0 +1,3 @@
+class greenapple extends apple
+{
+}
